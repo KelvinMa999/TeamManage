@@ -3,7 +3,7 @@ package project01.team.junit;
 import project01.team.domain.Employee;
 import project01.team.service.*;
 
-import org.junit.Test;
+//import org.junit.Test;
 
 public class NameListServiceTest {
     @Test
